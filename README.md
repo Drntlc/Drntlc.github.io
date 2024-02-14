@@ -47,6 +47,7 @@ Ordered
 
 ## Colour
 
+#ffffff
 #000000
 
 ## Image
